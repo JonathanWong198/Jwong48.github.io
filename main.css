@@ -23,11 +23,11 @@
 .jumbotron .container {
   position: relative;
   top:100px;
-  color: #0099ff;
+  
 }
 
 .jumbotron h1 {
-  color: #0099ff;
+  color: #ccccff;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -35,7 +35,7 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: #0099ff;
+  color: #ccccff;
 }
 
 
